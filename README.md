@@ -6,3 +6,8 @@ Since submission should be in either Octave or MATLAB, I did not try to submit m
 
 Libraries used in the exercises include:
 
+- Numpy
+- Scipy
+- Pandas
+- Scikit-learn
+- 
