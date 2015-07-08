@@ -10,4 +10,4 @@ Libraries used in the exercises include:
 - Scipy
 - Pandas
 - Scikit-learn
-- 
+
